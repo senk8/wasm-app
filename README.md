@@ -1,6 +1,7 @@
 # wasm-app
 
-It is a web application without a bundler.
+WebAssemblyのテスト用アプリです。英単語数を数えます。それ以上の機能はありません。
+バンドラ（web-pack）は使用していません。
 
 ```
 $ wasm-pack build --target web
